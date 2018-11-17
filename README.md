@@ -49,6 +49,7 @@ Git Structure
 10. add file
 11. commit
 12. No store branch
+> git push --set-upstream origin store
 13. to merge
 > git checkout master
 > git status   -- to see in which branch
